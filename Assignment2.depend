@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665323401 source:e:\work\orange innovation\training\problem solving\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
